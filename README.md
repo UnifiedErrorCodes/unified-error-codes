@@ -4,7 +4,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/unified-error-codes/unified-error-codes?style=social)](https://github.com/unified-error-codes/unified-error-codes)
 [![Discussions](https://img.shields.io/github/discussions/unified-error-codes/unified-error-codes)](https://github.com/unified-error-codes/unified-error-codes/discussions)
 
-Platform for Open colaboration upon building comon software, practices and specifications towards Unfiied Error Codes and diagnostic in e-mobility.
+Platform for open collaboration upon building common software, practices, and specifications towards Unified Error Codes and diagnostics in e-mobility.
 
 ---
 
